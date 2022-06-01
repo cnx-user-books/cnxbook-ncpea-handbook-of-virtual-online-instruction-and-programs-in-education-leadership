@@ -1,0 +1,255 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Textbook">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col11375</md:content-id>
+  <md:title>NCPEA Handbook of Online Instruction and Programs in Education Leadership</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <md:language>en</md:language>
+
+  
+
+  
+  <md:uuid>d302309d-1341-4020-90fd-ec4492502fe7</md:uuid>
+<md:slug>ncpea-handbook-of-virtual-online-instruction-and-programs-in-education-leadership</md:slug>
+</metadata>
+
+  <col:content>
+    
+      
+        
+      <col:subcollection>
+        <md:title>Introduction</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42283"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Challenging the Online Assumption</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m41567"/>
+        
+      
+    
+    
+      <col:module document="m42767"/>
+        
+      
+    
+    
+      <col:module document="m42282"/>
+        
+      
+    
+    
+      <col:module document="m42020"/>
+        
+      
+    
+    
+      <col:module document="m43340"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Acknowledging the Changes to Teaching</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42258"/>
+        
+      
+    
+    
+      <col:module document="m41660"/>
+        
+      
+    
+    
+      <col:module document="m41540"/>
+        
+      
+    
+    
+      <col:module document="m42274"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Focusing on the Twenty-First Century Learner</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m41524"/>
+        
+      
+    
+    
+      <col:module document="m41546"/>
+        
+      
+    
+    
+      <col:module document="m41599"/>
+        
+      
+    
+    
+      <col:module document="m41596">
+        <col:featured-links>
+          
+            <cnxml:link-group type="prerequisite">
+              <cnxml:link url="http://coe.fgcu.edu/faculty/valesky/edleadsims/simulations.html ">ncpea</cnxml:link>
+            </cnxml:link-group>
+          
+        </col:featured-links>
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m41547"/>
+        
+      
+    
+    
+      <col:module document="m41721"/>
+        
+      
+    
+    
+      <col:module document="m42278"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Considering Practices Impacting Program Development</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m41549"/>
+        
+      
+    
+    
+      <col:module document="m41550"/>
+        
+      
+    
+    
+      <col:module document="m41548"/>
+        
+      
+    
+    
+      <col:module document="m41525"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Practicing New Pathways of Student and Program Assessment</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42259"/>
+        
+      
+    
+    
+      <col:module document="m42201"/>
+        
+      
+    
+    
+      <col:module document="m42272"/>
+        
+      
+    
+    
+      <col:module document="m42280"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Renewing Our Commitment</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m42260"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+  </col:content>
+</col:collection>

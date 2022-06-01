@@ -1,0 +1,859 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Developing and Implementing An Effective Online Educational Leadership Internship Revisited</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41599</md:content-id>
+  <md:title>Developing and Implementing An Effective Online Educational Leadership Internship Revisited</md:title>
+  <md:abstract>This publication aligns with the Interstate School Leaders Licensure Consortium (ISSLC) Standard 1: "An education leader promotes the success of every student by facilitating the development, articulation, implementation and stewardship of a vision of learning that is shared and supported by all stakeholders."</md:abstract>
+  <md:uuid>4ec85fbc-f957-4908-a13d-f276a34429b1</md:uuid>
+</metadata>
+
+<content>
+    
+    
+<para id="eip-851"><title>NCPEA Publications</title><media id="id24711427" alt=""><image src="../../media/logo3.jpg" mime-type="image/jpg"/></media></para><note id="id24711436">This manuscript has been peer-reviewed, accepted, and endorsed by the National Council of Professors of Educational Administration (NCPEA) as a significant contribution to the scholarship and practice of education administration. In addition to publication in the Connexions Content Commons, this module is published in the <emphasis effect="italics">NCPEA Handbook of Online Instruction and Programs in Education Leadership,</emphasis> ISBN 978-1-4507-7263-1.
+
+
+ </note><list id="eip-49" list-type="bulleted" bullet-style="none"><title><emphasis effect="underline">Editors</emphasis></title><item>Janet Tareilo, Stephen F. Austin State University</item>
+<item>Brad Bizzell, Virginia Tech</item>
+</list><list id="eip-475" list-type="bulleted" bullet-style="none"><title><emphasis effect="underline">Associate Editors</emphasis></title><item>Beverly Irby, Sam Houston State University</item>
+<item>Rosemary Papa, Northern Arizona University</item>
+<item>Thomas Valesky, Florida Gulf Coast University</item>
+<item>Theodore Creighton, Virginia Tech</item></list><section id="element-149">
+	<title>Introduction</title>
+	<para id="element-936">Graduate students seeking to be educational leaders in today’s high-demand society require more than lectures and textbooks to learn the requisite leadership skills. They must also have the opportunity to develop and test job skills in an on-the-job environment. Future leaders need the opportunity to grapple with the dilemmas principals face (Southern Regional Education Board [SREB], 2007). This is best accomplished in an internship under the guidance of a fully involved site mentor and a university mentor working in tandem with the graduate student.
+		</para>
+	<para id="element-23">There has been continuous interest among many leadership preparation program faculty to learn which preparation approaches more effectively prepare their candidates as principals and district leaders. The problem universities face as school leadership programs migrate to the online environment is how to construct a meaningful online internship – an internship that provides accountability, flexibility, and one that is based on accepted national and state standards.
+		</para>
+</section>
+
+<section id="element-995">
+	<title>Considerations in Developing an Online Internship</title>
+    <para id="id21341078">The Stanford Educational Leadership Institute (Darling-Hammond, LaPointe, Meyerson, &amp; Orr,  2007) found the following elements in exemplary leadership preparation programs:
+		</para>
+    <list id="id22154958" list-type="bulleted">
+      <item>A comprehensive and coherent curriculum aligned with state and professional standards, in particular the ISSLC standards, which emphasize instructional leadership;</item>
+      <item>A philosophy and curriculum emphasizing instructional leadership and school improvement;</item>
+      <item>Active, student-centered instruction that integrates theory and practice and stimulates reflection. Instructional strategies include problem-based learning; action research; field-based projects; journal writing; and portfolios that feature substantial use of feedback and assessment by peers, faculty, and the candidates themselves;</item>
+      <item>Faculty who are knowledgeable in their subject areas, including both university professors and practitioners experienced in school administration;</item>
+      <item>Social and professional support in the form of a cohort structure and formalized mentoring and advising by expert principals;</item>
+      <item>Vigorous, targeted recruitment and selection to seek out expert teachers with leadership potential; and</item>
+      <item>Well-designed and supervised administrative internships that allow candidates to engage in leadership responsibilities for substantial periods of time under the tutelage of expert veterans. (p.6)</item>
+    </list>
+	
+    <para id="id25221572">The internship or practicum is a purposeful effort to connect theory and practice. The Southern Regional Education Board (2006) five-year study of school leadership preparation noted four core conditions for principal preparation: (1) university/district partnerships; (2) standards and research based practices with practical learning experiences; (3) authentic field experiences integrated throughout the program with student, university faculty, and site mentor support; and(4) an assessment plan designed to provide reliable evidence about the effectiveness of the program.  The third core condition targets the internship.
+		</para>
+    <para id="element-281"><media id="id24734895" alt=""><image src="../../media/arrow.jpg" mime-type="image/jpg"/></media>
+		</para>
+	<para id="id25264697">The SREB’s call for integrated internship experiences must not stop at integration. The experiences must also involve conceptual thinking. Bransford, Brown, &amp; Cocking (2000) noted that beginners in a field, tend to think more factually. On the other hand, experts in the field problem solve utilizing overarching ideas. Bransford, Brown, and Cocking’s (2000) observations support the need to pair aspiring leaders with proven leaders. This is best accomplished through a team approach. The team being comprised of the aspiring leader (student), a site mentor, and the university mentor (SREB, 2007).
+		</para>
+    <para id="id24734876">The site administrator selection greatly influences the quality of the internship experience. The amount of time the site administrator spends with the aspiring leader strongly influences the quality of the internship. Ideally the site mentor will make arrangements for the student to have additional release time from teaching duties to participate in internship activities (McCreight &amp; Kaiser, 2004).
+		</para>
+	<para id="id25221831">Erickson (2007) noted that,
+		</para>
+    
+    <para id="eip-592"><emphasis effect="italics">"Conceptual thinking requires the ability to critically examine factual information; relate to prior knowledge; see patterns and connections: draw out significant understandings at the conceptual level; evaluate the truth of the understandings based on the supporting evidence; transfer the understanding across time or situation; and often, use the conceptual understanding to creatively solve a problem or create a new product, process, or idea”</emphasis> (p. 19). </para><para id="id25191770">Conceptual thinking is at the heart of the internship experience. Interns must have experiences that require them to relate their prior knowledge to situations so they can evaluate the truth of their understandings. It is only then that deep learning occurs.
+		</para>
+</section>
+    
+<section id="element-21">
+	<title>Level of Complexity</title>
+    <para id="id25639754">The Texas Depth and Complexity Model (Fig. 1) lends itself well in defining the experiences that need to be incorporated in the internship. This model combines Bloom’s taxonomy on the y-axis with Erickson’s Structure of Knowledge on the x-axis. By combining Bloom’s taxonomy and its level of depth with Erickson’s Structure of Knowledge complexity dimension, quality internship experiences can be identified. These experiences fall within the box in the upper right-hand quadrant of Figure 1. Students must develop the deeper understanding that occurs with experiences that fall within this box. Experiences outside of the box, while educational, will soon be forgotten.
+		</para>
+    <para id="element-384"><media id="id24754088" alt=""><image src="../../media/figure1.gif" mime-type="image/gif"/></media>
+		</para>
+    <para id="id25082625">Reflection must be coupled with the field experience. Rose (1992) stressed the importance of collaboration in the reflective process. Reflection must demonstrate a full knowledge and understanding of the learning experience and its learning objective. It must communicate the rationale for selecting the internship experience and must demonstrate achieving the learning outcome. If a reflection does not communicate learning, then it is not a successful reflection. A reflection should communicate knowledge and understanding of the learning outcome, choice of the artifact, alignment, organization, and development. 
+		</para>
+</section>
+
+<section id="element-304"><title>Expected Outcomes</title>
+    <para id="id24258412">McREL identified 21 school-level leadership responsibilities with statistically significant correlations to student achievement. These 21 responsibilities do not represent all of the important responsibilities principals are expected to fulfill but do represent leadership responsibilities that when fulfilled skillfully, positively impact student achievement. (Marzano, Waters &amp; McNulty, 2005; Waters &amp; Grubb, 2005). </para>
+    <table id="id19985602" summary="Table 1"><title>Leadership Responsibilities</title>
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry>Responsibilities The extent to which the principal…</entry>
+            <entry>Key feature</entry>
+          </row>
+          <row>
+            <entry>Fosters shared beliefs &amp; a sense of community &amp; cooperation</entry>
+            <entry>Culture</entry>
+          </row>
+          <row>
+            <entry>Establishes a set of standard operating procedures &amp; routines </entry>
+            <entry>Order</entry>
+          </row>
+          <row>
+            <entry>Protects teachers from issues &amp; influences that would detract from their teaching time or focus </entry>
+            <entry>Discipline</entry>
+          </row>
+          <row>
+            <entry>Provides teachers with materials &amp; professional development necessary for the successful execution of their jobs </entry>
+            <entry>Resources</entry>
+          </row>
+          <row>
+            <entry>Is directly involved in design, implementation, &amp; assessment of curriculum, instruction, &amp; assessment practices </entry>
+            <entry>Curriculum &amp; Instruction</entry>
+          </row>
+          <row>
+            <entry>Establishes clear goals &amp; keeps those goals in the forefront of the school’s attention </entry>
+            <entry>Focus</entry>
+          </row>
+          <row>
+            <entry>Is knowledgeable about current curriculum, instruction and assessment practices </entry>
+            <entry>Knowledge of curriculum</entry>
+          </row>
+          <row>
+            <entry>Has quality contact &amp; interactions with teachers &amp; students </entry>
+            <entry>Visibility</entry>
+          </row>
+          <row>
+            <entry>Recognizes &amp; rewards individual accomplishments </entry>
+            <entry>Contingent rewards</entry>
+          </row>
+          <row>
+            <entry>Establishes strong lines of communication with teachers &amp; among students</entry>
+            <entry>Communication</entry>
+          </row>
+          <row>
+            <entry>Is an advocate &amp; spokesperson for the school to all stakeholders</entry>
+            <entry>Outreach</entry>
+          </row>
+          <row>
+            <entry>Involves teachers in the design &amp; implementation of important decisions &amp; policies </entry>
+            <entry>Input</entry>
+          </row>
+          <row>
+            <entry>Recognizes &amp; celebrates school accomplishments &amp; acknowledges failures</entry>
+            <entry>Affirmation</entry>
+          </row>
+          <row>
+            <entry>Demonstrates an awareness of the personal aspects of teachers &amp; staff</entry>
+            <entry>Relationship</entry>
+          </row>
+          <row>
+            <entry>Is willing to &amp; actively challenges the status quo </entry>
+            <entry>Change agent</entry>
+          </row>
+          <row>
+            <entry>Inspires &amp; leads new &amp; challenging innovations </entry>
+            <entry>Optimizer</entry>
+          </row>
+          <row>
+            <entry>Communicates &amp; operates from strong ideals &amp; beliefs about schooling </entry>
+            <entry>Ideals/beliefs</entry>
+          </row>
+          <row>
+            <entry>Monitors the effectiveness of school practices &amp; their impact on student learning</entry>
+            <entry>Monitors/evaluates</entry>
+          </row>
+          <row>
+            <entry>Adapts his or her leadership behavior to the needs of the current situation &amp; is comfortable with dissent</entry>
+            <entry>Flexibility</entry>
+          </row>
+          <row>
+            <entry>Is aware of details &amp; undercurrents in the running of the school &amp; uses this information to address current &amp; potential problems </entry>
+            <entry>Situational awareness</entry>
+          </row>
+          <row>
+            <entry>Ensures that faculty &amp; staff are aware of the most current theories &amp; practices &amp; makes the discussion of these a regular aspect of the school’s culture </entry>
+            <entry>Intellectual stimulation</entry>
+          </row>
+        </tbody>
+      
+</tgroup>
+</table>
+</section>
+    
+<section id="element-845">
+	<title>An Examination of the Abilene Christian University Educational Leadership Internship</title>
+	<para id="id24044155">The internship is just one component of the ACU Student-Centered Learning Model. Before examining the internship in detail, an overview of the ACU Student-Centered Learning model is offered in order to contextually place the internship within the learning model.
+		</para>
+    <para id="element-195"><title>Figure 2: ACU Student-Centered Learning Model</title><media id="id23974144" alt=""><image src="../../media/figure2.gif" mime-type="image/gif"/></media>
+	</para>
+    
+    <para id="id8594478">The two-track e-portfolio (Internship and course), the capstone, and the interactive resume are integrated components of the student-centered approach to teaching and learning that is central to the ACU experience. Using portfolios to showcase and assess learning is not a new idea. Portfolios have been used in the arts for many years. What is new, however, is the power of the computer for portfolio assessment. </para>
+    <para id="id13608401">The e-portfolio enables students to creatively use their strengths to demonstrate learning by sharing authentic examples of academic work and achievements. These examples are called artifacts. The e-portfolio process allows individual learners to develop a stronger sense of identity by reflecting on how the artifacts demonstrate mastery of course learning outcomes. </para>
+    <para id="id25458502">At the completion of the program, the e-portfolio will contain collected and organized examples of the student’s learning and represent the full spectrum of academic and professional experiences. As a final requirement, each student creates a capstone experience, using the e-portfolio to creatively demonstrate accomplishments by integrating authentic examples of learning into an Exhibition. The Exhibition is a student-centered and student-directed presentation, which allows the student to creatively mix evaluative styles and artifacts to demonstrate learning strengths. </para>
+    <para id="id23617234">The e-portfolio also allows the student to use authentic learning examples to create a web-based interactive resume or vita. Potential employers can access resumes containing authentic work examples. Students will have the capability to retain and update their interactive resumes throughout their careers. </para>
+    
+    <para id="eip-189">To access the e-Portfolio students select the My Portfolio link in Moodle where they see five tabs at the top of the page – Student Folder, Course Matrix, Internship Matrix, Capstone Area, and Career Folder.</para>
+    
+    <para id="eip-304"><title>Student Folder</title>A secure, designated storage space in which students can create sub-folders, upload, delete or move items. Students each have one Student Folder that will stay with them throughout their program. </para><para id="eip-763"><title>Course Matrix</title>The Matrix is a graphic representation of the student’s e-Portfolio. A list of courses for the program is located in the left column of the matrix. To the right of the courses is a clearly visible Key that informs the student what has and has not been submitted. By selecting the Key the student will get clear instructions on how to submit items and receive feedback from the instructor. </para>
+    
+    
+    
+    <para id="eip-800"><title>Internship Matix</title>If a student is required to complete an internship or practicum with their program the Internship tab will be active. The look and feel is very similar to his Course Matrix. In place of the courses a list of Internship Experiences will be listed down the left side. To the right of the Experiences is a clearly visible Key that informs the student what has and has not been submitted. This will allow the student to easily determine what they have completed. </para>
+    
+    <para id="eip-66"><title>Capstone Area</title>In this area students will be able use a WYSIWYG editor to assemble items form their Course Matrix, Internship Matrix or Student Folder to a web-based presentation. Only the student and the instructors of the Capstone will have access to this area. </para>
+    <para id="id16787172"><title>Career Folder</title>In this folder student will be able to use a WYSIWYG editor to assemble items from their Course Matrix, Internship Matrix or Student Folder and create a web-based resume. The student will have the ability to send the URL for this resume to future employers. They can update this folder at any time. </para>
+    <para id="id20988287">Given this brief introduction to the ACU Student-Centered Model it is now appropriate to focus on the internship element of the model. </para>
+    <para id="id23218485">Many leadership programs have a one-semester internship at the end of the preparation program. These internships have proven to be neither instructionally effective nor cost-effective (Sid W. Richardson Foundation [SWRF], 1997). The ACU internship is integrated throughout the program. The internship consists of five components: an internship orientation, an action research project, national standards based activities, an e-portfolio, and a capstone experience.
+		</para>
+
+		<section id="element-229">
+			<title>Action Research</title>
+			<para id="element-564">Students examine action research in the program’s second course. Students collaborate with their university and site mentors to develop a plan for a significant school research project. The research project plan is developed to insure the project is implemented in an orderly and timely manner. Progress checkpoints are embedded throughout the program. Students have approximately one and one-half years to conduct their research project.
+		</para></section>
+
+		<section id="element-370">
+			<title>Internship Orientation</title>
+			<para id="element-354">During the break between the program’s second and third course, students attend a mandatory internship orientation webinar detailing the online internship. Students actively participate in the webinar’s presentation and discussion. Students have the opportunity to submit questions and make comments during the webinar, either orally or via text messaging using a chat box. 
+		</para></section>
+
+		<section id="element-440">
+			<title>Internship Activities &amp; Management System</title>
+			<para id="element-161"><emphasis effect="italics">The School Leadership Internship</emphasis> 2nd Edition by Martin, Wright, Danzig, Flanary and Brown (2005) is the internship text. This book offers 38 skill sets based upon national standards. Each of the national standards-based 38 skill sets offers the intern a menu of one to nine activities. While this book is an excellent internship text, further action was required to match instruction with technology to function optimally in the online environment (Strehle, Whatley, Kurz, &amp; Hausfather, 2001).</para><para id="element-635">ACU contracted with a firm to develop intern-friendly software to manage the 38 skill sets and their multiple activity options as well as other components of the online internship text. Internship Matrix software was developed to make managing of the internship easier for the mentors and the students. This matrix is key to a smooth implementation of the online internship. Color was incorporated in the grid’s deign to enhance its user-friendly requirement. Each of the 38 leadership skill area activities cells begin with no fill. Figure 3 depicts The Internship Matrix as a student initially sees it. It should be noted that this figure is not the final product but is a representation of the matrix’s concept.
+		</para></section>
+    
+    
+    
+    <table id="id24957071" summary=""><title>ACU Internship Matrix</title><tgroup cols="10">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <colspec colnum="8" colname="c8"/>
+        <colspec colnum="9" colname="c9"/>
+        <colspec colnum="10" colname="c10"/>
+        <tbody>
+          <row>
+            <entry>Activity</entry>
+            <entry namest="c2" nameend="c10">Menu</entry>
+          </row>
+          <row>
+            <entry>1.1 - Vita</entry>
+            <entry/>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+          </row>
+          <row>
+            <entry>1.2 - Assessment</entry>
+            <entry/>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+          </row>
+          <row>
+            <entry>1.3 - Assessment</entry>
+            <entry/>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+          </row>
+          <row>
+            <entry>1.4 - Assessment</entry>
+            <entry/>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+          </row>
+          <row>
+            <entry>1.5 - Goals</entry>
+            <entry/>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+          </row>
+          <row>
+            <entry>1.6 - Assessment</entry>
+            <entry/>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+          </row>
+          <row>
+            <entry>1.7 - Summary</entry>
+            <entry/>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+          </row>
+          <row>
+            <entry>1</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry>D</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>2</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry>D</entry>
+            <entry>E</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>3</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>4</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry>D</entry>
+            <entry>E</entry>
+            <entry>F</entry>
+            <entry>G</entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>5</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry>D</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>6</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>7</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry>D</entry>
+            <entry>E</entry>
+            <entry>F</entry>
+            <entry>G</entry>
+            <entry>H</entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>8</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry>D</entry>
+            <entry>E</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>9</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry>D</entry>
+            <entry>E</entry>
+            <entry>F</entry>
+            <entry>G</entry>
+            <entry>H</entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>10</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry>D</entry>
+            <entry>E</entry>
+            <entry>F</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>11</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry>D</entry>
+            <entry>E</entry>
+            <entry>F</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>12</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry>D</entry>
+            <entry>E</entry>
+            <entry>F</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>13</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry>D</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>14</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry>D</entry>
+            <entry>E</entry>
+            <entry>F</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>15</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>16</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry>D</entry>
+            <entry>E</entry>
+            <entry>F</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>17</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry>D</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>18</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry>D</entry>
+            <entry>E</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>19</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>20</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>21</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry>D</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>22</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>23</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry>D</entry>
+            <entry>E</entry>
+            <entry>F</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>24</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry>D</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>25</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry>D</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>26</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry>D</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>27</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry>D</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>28</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry>D</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>29</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>30</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry>D</entry>
+            <entry>E</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>31</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry>D</entry>
+            <entry>E</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>32</entry>
+            <entry>A</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>33</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry>D</entry>
+            <entry>E</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>34</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry>D</entry>
+            <entry>E</entry>
+            <entry>F</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>35</entry>
+            <entry>A</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>36</entry>
+            <entry>A</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>37</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>C</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>38</entry>
+            <entry>A</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry>*</entry>
+          </row>
+          <row>
+            <entry>Action Research Project</entry>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+</section>
+
+    <section id="element-296">
+	<title>Demonstration of the Internship Matrix</title>
+    <para id="id26570640">Dr. Howard is a professor in the Leadership of Learning program and oversees the internship for twenty-five students. Dr. Howard logs into his ACU Moodle port and sees within the list of courses he instructs, the Leadership Internship. He opens the course and sees on the right hand side an ePortfolio block, with the link “Internship Matrix” inside the block. Dr. Howard clicks the link and is taken to a new page that displays the Matrix for the Internship Matrix (Figure 2). The Internship Matrix details all the internship requirement activities as well as the internship experiences and learning outcomes. At the top of the page, Dr. Howard clicks a drop down box that allows him to select any one of the twenty-five students that he oversees. Dr. Howard selects Ernest Bass from the list and when clicked, Ernest’s Internship Matrix appears with the requirements, the activities, and the learning outcomes that he has completed so far. Dr. Howard notices that when he scrolls the mouse cursor over the internship activities, that a tool tip appears giving him the title and description of each activity.</para>
+    <para id="id24956292">Dr. Howard received notification from his student, Ernest Bass, that he uploaded an artifact and reflection for his first internship activity. Dr. Howard enters Ernest Bass’s Internship Matrix and sees Experience 1C changed color to light blue indicating that Ernest Bass chose 1C to demonstrate mastery of experience 1. Dr. Howard clicks on cell 1C and a pop-window opens giving Dr. Howard the following options:</para>
+    <para id="id21921880">Dr. Howard opens both the artifact and reflection documents. After reviewing, Dr. Howard now wants to add his feedback. Dr. Howard writes his feedback in a word document and saves it to his C drive. Dr. Howard then goes back to the Internship Matrix and clicks the link “Add Feedback” and a pop-up window appears. Dr. Howard clicks the button “Browse” and a file directory is opened from which he can select the feedback document. Once Dr. Howard attaches the document and clicks “Submit” he is taken back to the Internship Matrix view. Dr. Howard sees that the “Add Feedback” title has been changed to “View Feedback”. Dr. Howard now clicks the “Lock” checkbox and clicks submit. Dr. Howard returns to the Internship Matrix where he sees that 1C has changed to Dark Blue and has a padlock icon that indicates it is now locked.</para>
+    <table id="id25076572" summary="">
+      <tgroup cols="10">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <colspec colnum="8" colname="c8"/>
+        <colspec colnum="9" colname="c9"/>
+        <colspec colnum="10" colname="c10"/>
+        <tbody>
+          <row>
+            <entry>1</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry>?C</entry>
+            <entry>D</entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry> </entry>
+            <entry>*</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <list id="element-101" list-type="bulleted"><item>View Artifact (Title of artifact shown)</item>
+	<item>View Reflection (Title of reflection shown)</item>
+	<item>Add Feedback</item>
+<item> Lock (Check Box) </item>
+</list>
+</section>
+
+<section id="element-616"><title>Capstone Experience</title>
+
+    <para id="element-969">The capstone experience is the final component of the online internship. Although students register for this experience as their final course, they have been working toward the capstone experience since the internship orientation webinar after the second course. Students reflect on their experiences throughout the degree program. This self-reflection includes reviewing the 38 internship activities and the other artifacts on the Internship Matrix and how they support the student’s mastery of the program outcome and the national standards. Students are encouraged to involve their site mentor in this self-evaluation process.</para><para id="id23510341">The student prepares a 45 to 60 minute presentation with these required elements: (1) address the site mentor’s final assessment of the student’s fulfillment of internship activities; (2) an informal self-evaluation of the student on his strength and weaknesses as well as the perspective of the site mentor; and (3) demonstrate mastery of the program and national standards using artifacts chosen by the student from the 38 skill sets. The capstone experience can occur in a variety of formats chosen by the student. These include face-to-face presentation, webinar conference, podcast, or any other format approved by the university mentor.
+
+</para>
+</section>
+<section id="element-990"><title>Conclusion</title><para id="element-78">As online courses and programs proliferate across our country, is it essential for educational leadership faculty to embrace the advantages of new technology versus fearing the cyberspace divide. The program developed at Abilene Christian University found greater communication between mentors and interns and a means to better supervise progress, assist student interns with immediate questions or concerns, and collect data on learning outcomes. Although technical experts were needed in the development of the model and much initial time spent by the professors, the benefits to interns were worth the effort. And we sincerely hope that the advancements made to the online internship will ultimately benefit the children they lead and serve.
+</para></section>
+    
+<section id="element-666"><title>References</title>
+
+
+
+    <para id="id20123388">Bransford, J., Brown, A., &amp; Cocking, R. (Eds.). (2000). <emphasis effect="italics">How people learn: Brain, mind, experience, and school</emphasis> (Expanded ed.). Committee on Developments n the Science of Learning and Committee on Learning Research and Educational Practice, Commission on Behavioral and Social Sciences and Education, National Research Council. Washington, DC: National Academies Press.</para>
+    <para id="id24926677">Council of Chief State School Officers. (1996, November 2). <emphasis effect="italics">Interstate  School Leaders Licensure Consortium: Standards for school leaders</emphasis>.  Washington, DC: Author. </para>
+    <para id="id4890047">Darling-Hammond, L., LaPointe, M., Meyerson, D., &amp; Orr, M. (2007). <emphasis effect="italics">Preparing  school leaders for a changing world: Executive summary</emphasis>. Stanford, CA:  Stanford University, Stanford Educational Leadership Institute.</para>
+    <para id="id22063128">Erickson, H. L. (2007). <emphasis effect="italics">Concept-based curriculum and instruction for the thinking classroom</emphasis>. Thousand Oaks, CA: Corwin Press.</para>
+    <para id="id23640225">Gray, T. (2001). Principal Internships: Five tips for a successful and rewarding experience. <emphasis effect="italics">Phi Delta Kappan</emphasis>, 663 – 665.</para>
+    <para id="id23416846">Martin, G. E., Wright, W, F., Danzig, A. B., Flanary, R. A., &amp; Brown, F. (2005). The School Leadership Internship (2nd ed.). Larchmont, NY: Eye on Education. </para>
+    <para id="id24004832">Marzano, R.J., Waters, T., &amp; McNulty, B.A. (2005). <emphasis effect="italics">Scholarship that works</emphasis>.  Aurora, CO.: Mid-Continent Research for Education and Learning  (McREL).</para>
+    <para id="id24171584">McCreight, C. (2004).<emphasis effect="italics"> Handbook for practicum students and interns in educational administration</emphasis>. Mequon, WI: Stylex. </para>
+    <para id="id22686615">Orr, M. T. (2003). Evaluating educational leadership development: Measuring leadership, its development and its impact. Paper presented at the American Educational Research Association, Chicago, IL.</para>
+    <para id="id26463121">Palloff, R.M., &amp; Pratt, K. (2005). <emphasis effect="italics">Collaborating online: Learning together in community</emphasis>. San Fransisco, CA: Jossey-Bass.</para>
+    <para id="id22794666">Rose, A. (1992, January). Framing our experience: Resarch notes on reflective practice. <emphasis effect="italics">Adult Learning</emphasis>, 5.</para>
+    <para id="id23956197">Salmon, G. (2004). <emphasis effect="italics">E-tivities: The key to active online learning</emphasis>. New York: RoutledgeFalmer.</para>
+    <para id="id22402797">Sid W. Richardson Foundation (SWRF). (1997). <emphasis effect="italics">Principals for the schools of Texas: A seamless web of professional development</emphasis>. Fort Worth, TX: Author.</para>
+    <para id="id23642194">Southern Regional Education Board (SREB). (2007). <emphasis effect="italics">Schools need good leaders now: State progress in creating a learning-centered school leadership system</emphasis>. Atlanta, GA: Author.</para>
+    <para id="id23529791">Southern Regional Education Board (SREB). (2006).<emphasis effect="italics"> Schools can’t wait: Accelerating the redesign of university principal preparation programs</emphasis>. Atlanta, GA: Author.</para>
+    <para id="id23184017">Strehle, E.L., Whatley, A., Kurz, K.A., &amp; Hausfather, S.J. (2002). Narratives of collaboration: Inquiring into technology integration in teacher education. <emphasis effect="italics">Journal of Technology and Teacher Education, 10</emphasis>(1), 27-47.</para>
+    <para id="id25512027">Texas Education Agency. (2005). Instructional Leadership Development: Moving Texas forward. Austin, TX: Author.</para>
+    
+    <para id="id24437607">Waters, J.T., &amp; Grubb, S. (2005). Leading schools: Distinguishing the essential from the important. <emphasis effect="italics">The Australian Educational Leader</emphasis>, (3), 10–13, 46–48.
+</para>
+</section>
+</content>
+</document>

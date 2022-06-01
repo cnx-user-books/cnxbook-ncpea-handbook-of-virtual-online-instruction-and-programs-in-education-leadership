@@ -1,0 +1,396 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Case Studies: Developing Decision Making Skills in Diverse Simulated Environments</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41547</md:content-id>
+  <md:title>Case Studies: Developing Decision Making Skills in Diverse Simulated Environments</md:title>
+  <md:abstract>Traditional print case studies have been a long-standing instructional strategy for educational leadership preparation programs.  With the advent of interactive online environments, the possibilities for simulations have increased exponentially—opening the way for data-rich, complex cases that the instructor can easily situate in diverse settings.  One program offering such a problem-solving experience is Educational Theory into Practice Software (ETIPS).  ETIPS is a federally funded program developed by professors of educational administration as a tool to teach data-based decision-making skills.  Available for both pre-service and in-service use, ETIPS provides 10 problems that can each be situated in nine schools.  The options for schools include elementary, middle, and high schools in rural, urban, and suburban settings with low, average, or high academic achievement.</md:abstract>
+  <md:uuid>f51acfc5-04d9-4056-8923-e7949ab43174</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-308"><title>NCPEA Publications</title><media id="id1168919510108" alt=""><image src="../../media/logo3.jpg" mime-type="image/jpg"/></media></para><note id="id1168914628612">This manuscript has been peer-reviewed, accepted, and endorsed by the National Council of Professors of Educational Administration (NCPEA) as a significant contribution to the scholarship and practice of education administration. In addition to publication in the Connexions Content Commons, this module is published in the <emphasis effect="italics">NCPEA Handbook of Online Instruction and Programs in Education Leadership,</emphasis> ISBN 978-1-4507-7263-1. 
+
+</note><list id="eip-160" list-type="bulleted" bullet-style="none"><title><emphasis effect="underline">Editors</emphasis></title><item>Janet Tareilo, Stephen F. Austin State University</item>
+<item>Brad Bizzell, Virginia Tech</item>
+
+
+
+</list><list id="eip-439" list-type="bulleted" bullet-style="none"><title><emphasis effect="underline">Associate Editors</emphasis></title><item>Beverly Irby, Sam Houston State University</item>
+<item>Rosemary Papa, Northern Arizona University</item>
+<item>Thomas Valesky, Florida Gulf Coast University</item>
+<item>Theodore Creighton, Virginia Tech</item></list><list id="eip-338" list-type="labeled-item"><title><emphasis effect="underline"> About the Author</emphasis></title><item><emphasis>Samuel Smith</emphasis> is an Associate Professor at Liberty University where he teaches courses in education administration and works with schools in the preparation of school leaders. He was instrumental in the field testing of the ETIPS initiative.</item>
+</list><section id="eip-293"><title>Educational Theory into Practice </title><para id="eip-158">
+
+</para></section><para id="id10700384">Educational Theory into Practice Software (ETIPS) is an online case study program intended for use by professors of education administration. The program was developed by Sara Dexter and Pamela D. Tucker of the University of Virginia and was tested by various other universities throughout Virginia. The author, a member of the testbed group, outlines in this chapter the theoretical framework, elaborating on the advantages of interactive, authentically contextualized online case studies over traditional print scenarios. Emphasis is given to the outcomes of the program, which are to strengthen candidates’ skills in data analysis, problem solving, and collaborative decision making. ETIPS enhances practical leadership skills for those who serve on the frontlines. With the rapid growth of online principal preparation programs, this tool clearly represents a change in preparation. Readers will learn not only from the testbed study itself but will gain valuable information to maximize the use of traditional print case studies as well.</para>
+    <para id="id6115694">Considering the bleak analysis of the state of educational-administration university programs offered in Arthur Levine’s (2005, March) report entitled Educating School Leaders, developments such as ETIPS serve as a fitting response. Levine concluded in his critique that the curriculum in university programs was irrelevant and desperately lacking in meaningful experiences connecting theory to practice. Within weeks of these scathing statements, Levine (2005, April) wrote the following comment in The Chronicle of Higher Education:</para>
+    <para id="id7563281">Whether or not university-based school-leadership programs choose to clean their own houses, change will occur. The simple fact is that those programs are being replaced. Yet my hope is that universities and their educational-administration programs will embrace change rather than watch the states and the marketplace take away their franchise. (p. 20)</para>
+    <para id="id8646750">Levine is correct that universities must embrace change rather than to curse the proverbial darkness or to justify outdated methods. The ETIPS project is an effort to embrace that change, to invigorate the educational-leadership preparation process, and to provide a meaningful tool to transition from university classrooms to field experiences. Although primarily intended for and presently being tested in university settings, ETIPS was designed to perform just as effectively in non-university preparation programs. </para>
+    <para id="id10815962">The framework for these online cases answers Levine’s concerns by being grounded in research related to complexity, contextualized knowledge, and self-regulated learning. Unlike linear print cases, which have become standard in both business and school administration university programs (Zuelke &amp; Willerman, 1995), the virtual yet realistically complex school settings provided in ETIPS simulates the multifaceted schools in which principals serve (Putnam &amp; Borko, 2000). The structure of the case studies requires candidates to rely on all forms of knowledge: experiential, declarative, procedural, and contextual (Waters, Marzano, &amp; McNulty, 2003). Additionally, the problem-solving processes employed within the cases advance self-regulated learning (Pintrich, 2000). </para>
+    <para id="id12405148">Although traditional text-based cases can certainly provide meaningful decision-making simulations, they are inherently bound by a number of limitations. A most obvious limitation is that of a linear presentation restricted by chronological, lock-step progress through the scenario with the problem posed and the data under consideration being prescribed by the text. The type of thinking required of such traditional cases is retrospective in nature, reacting and contemplating only past events and circumstances. The problem is situated in a single school context with limited data about that particular school. The procedural scaffolding is modeled, managed, and coached by the professor.</para>
+    <para id="id11031654">In contrast, the ETIPS model transcends traditional text-based cases. The online case studies afford a decision-making experience that includes a non-linear presentation, prospective thinking, multiple contexts, numerous data, and scaffolding driven by the environment. While the case focus is established by the professor, it is an ill-structured situation that intentionally does not identify what the specific problem is. The initial step in preparing the case for the students is for the professor to select a topic and subtopic; there are ten potential subtopics from which to choose:</para>
+    <table id="id9065345" summary=""><title><emphasis effect="italics">Cases and Subtopics</emphasis></title><tgroup cols="3">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c3">CASE TOPICS &amp; SUBTOPICS</entry>
+          </row>
+          <row>
+            <entry><emphasis>Instructional Leadership</emphasis></entry>
+            <entry><emphasis>Organizational Leadership</emphasis></entry>
+            <entry><emphasis>Relational Leadership</emphasis></entry>
+          </row>
+          <row>
+            <entry>- Student Sub-Group Achievement </entry>
+            <entry>- School Excellence &amp; Future Direction </entry>
+            <entry>- Cultural Sensitivity &amp; Responsiveness</entry>
+          </row>
+          <row>
+            <entry>- Instructional Innovation </entry>
+            <entry>- Resources &amp; Mission Alignment </entry>
+            <entry>- School &amp; Family Engagement </entry>
+          </row>
+          <row>
+            <entry>- Positive School Culture </entry>
+            <entry>- Self-Study for School Improvement</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>- Professional Development Planning</entry>
+            <entry>- HR Staffing &amp; Development</entry>
+            <entry/>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id6351426">Once one of the 10 subtopics is selected, the professor then contextualizes the issue in any of the 9 schools; a possibility of 90 different scenario combinations exists. At this point, the professor may plan to have an entire class address the same topic in the same school or may assign different cases to groups. A greater variety of scenarios within the class will enrich discussion and will serve to illustrate how the same scenario in a different context is handled. Multiple issues exist within each of the schools; it is from among these multiple issues that the learner is to identify the main underlying concern to be addressed. The 9 schools from which the professor may contextualize the issues are as follows:</para>
+    <table id="id8663840" summary=""><title><emphasis effect="italics">Scenario Schools</emphasis></title><tgroup cols="3">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c3"><emphasis>ELEMENTARY SCHOOLS</emphasis></entry>
+          </row>
+          <row>
+            <entry>Roosevelt Elem Sch</entry>
+            <entry>Seneca Elem Sch</entry>
+            <entry>H. Usher Elem Sch</entry>
+          </row>
+          <row>
+            <entry>Low Performance </entry>
+            <entry>Average Performance </entry>
+            <entry>High Performance </entry>
+          </row>
+          <row>
+            <entry>Rural</entry>
+            <entry>Suburban</entry>
+            <entry>Urban</entry>
+          </row>
+          <row>
+            <entry namest="c1" nameend="c3"><emphasis>MIDDLE SCHOOLS</emphasis></entry>
+          </row>
+          <row>
+            <entry>Reyes MS</entry>
+            <entry>Santiago MS</entry>
+            <entry>Cold Springs MS</entry>
+          </row>
+          <row>
+            <entry>Average Performance </entry>
+            <entry>High Performance </entry>
+            <entry>Low Performance</entry>
+          </row>
+          <row>
+            <entry>Rural</entry>
+            <entry>Suburban</entry>
+            <entry>Urban</entry>
+          </row>
+          <row>
+            <entry namest="c1" nameend="c3"><emphasis>HIGH SCHOOLS</emphasis></entry>
+          </row>
+          <row>
+            <entry>Rainer HS</entry>
+            <entry>Stromburg HS</entry>
+            <entry>Underwood HS</entry>
+          </row>
+          <row>
+            <entry>High Performance </entry>
+            <entry>Low Performance </entry>
+            <entry>Average Performance</entry>
+          </row>
+          <row>
+            <entry>Rural</entry>
+            <entry>Suburban</entry>
+            <entry>Urban</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id7768666">Below is an example of an ill-structured scenario:</para>
+    
+    <list id="eip-164" list-type="bulleted" bullet-style="none"><item>Topic: Organizational Leadership</item>
+<item>Subtopic: School Excellence and Future Direction</item>
+<item>School Context: Seneca Elementary School, suburban, mid-performing academically</item></list>
+    
+    <para id="id9510710"><emphasis effect="italics">Case Scenario: </emphasis> Imagine that you are a member of the leadership team at Seneca Elementary School, in a suburban location. A new principal has just been hired who connected well with individuals in both the central office staff and the local community during the interviews. Many people viewed the school as simply drifting along and expressed a desire for her to take the school to the next level. During the first administrative team meeting, the new principal has asked for opinions from team members on future directions that would be shared and supported by the community. Your task is to identify the primary issue(s) that need to be addressed and the action steps to take in order to develop areas of excellence within the school.</para>
+    <para id="id8347487">The specific problem itself is identified by the learners as they explore the content on both the fictitious school’s public website and internal intranet. The school’s website includes 34 data sources, and the intranet includes 10. Once students know the topic, subtopic, school context, and case scenario, ETIPS prompts them to plan a strategy for analyzing the data. They are asked to click on 8 of the following 44 data sources that will reveal valuable information related to the scenario:</para>
+    <table id="id7192593" summary=""><title><emphasis effect="italics">Website Data</emphasis></title><tgroup cols="7">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c7">SCHOOL WEBSITE</entry>
+          </row>
+          <row>
+            <entry>About the School</entry>
+            <entry>Students</entry>
+            <entry>Staff</entry>
+            <entry>Curriculum &amp; Assessment</entry>
+            <entry>Technology Infrastructure</entry>
+            <entry>School Community Connections</entry>
+            <entry>Professional Development</entry>
+          </row>
+          <row>
+            <entry>Mission Statement </entry>
+            <entry>Demographics</entry>
+            <entry>Demographics</entry>
+            <entry>Standards</entry>
+            <entry>Schoolwide Facilities</entry>
+            <entry>Family Involvement</entry>
+            <entry>PD Plan</entry>
+          </row>
+          <row>
+            <entry>School Improvement Plan </entry>
+            <entry>Performance</entry>
+            <entry>Mentoring</entry>
+            <entry>Instructional Sequence</entry>
+            <entry>Classroom-based Facilities</entry>
+            <entry>Business Involvement</entry>
+            <entry>Resources</entry>
+          </row>
+          <row>
+            <entry>Facilities</entry>
+            <entry>Schedule</entry>
+            <entry>Leadership</entry>
+            <entry>Computer Curriculum</entry>
+            <entry>Community Facilities</entry>
+            <entry>Higher Education Involvement</entry>
+            <entry>Leadership</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry>Student Leadership</entry>
+            <entry>Faculty Schedule</entry>
+            <entry>Classroom Pedagogy &amp; Assessment</entry>
+            <entry>Technology Support Staff</entry>
+            <entry>Community Resources</entry>
+            <entry>Learning Community</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry/>
+            <entry>Faculty Meetings</entry>
+            <entry/>
+            <entry>Policies &amp; Rules</entry>
+            <entry/>
+            <entry>PD Process Goals</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry/>
+            <entry>Faculty Contract</entry>
+            <entry/>
+            <entry>Technology Committee</entry>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry>Technology Survey Results</entry>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry/>
+            <entry>Technology Plan &amp; Budget</entry>
+            <entry/>
+            <entry/>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id8023945" summary=""><title><emphasis effect="italics">Intranet Data</emphasis></title><tgroup cols="4">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c4">SCHOOL INTRANET</entry>
+          </row>
+          <row>
+            <entry>Student Data</entry>
+            <entry>Staff Data</entry>
+            <entry>Policies</entry>
+            <entry>Financial Records</entry>
+          </row>
+          <row>
+            <entry>Discipline</entry>
+            <entry>Supervision &amp; Evaluation</entry>
+            <entry>Instruction</entry>
+            <entry>Budget</entry>
+          </row>
+          <row>
+            <entry>Attendance</entry>
+            <entry>Teacher Improvement Goals</entry>
+            <entry>Personnel</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Grades &amp; Achievement</entry>
+            <entry>Staff Assignments</entry>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry/>
+            <entry>Leadership Team Profile</entry>
+            <entry/>
+            <entry/>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id11009338">The experience of selecting 8 of the 44 data sources simulates the complexity of an authentic problem-solving situation in which administrators are required to have an awareness of what data will best assist them in the decision-making process. As the students explore the data, they also can click on icons that will reveal teacher discussions about the topic in a chat-room environment. This exposes them to both the formal data and also the informal interpretation and reception of it by the faculty.</para>
+    <para id="id8620183"> In addition to the non-linear, learner-determined exploration of content, the process is prospective in nature—considering potential, likely, or expected conditions based upon trends, faculty concerns, and present conditions. Thus, forward thinking is much more a component of the complex ETIPS cases than of traditional text-based cases.</para>
+    <para id="id10773806"> Building on Vygotsky’s (1986) theory of mediated learning, the concept of scaffolding in the student’s zone of proximal development is integrated into the cases. Procedural scaffolding is provided by the task’s structure and process. The structure of the 44 data sources serves to develop habits of mind. As students repeatedly return to the data sources to learn more about the school and its issues, they formulate patterns of awareness regarding which data sources will best inform them on certain issues. The decision-making process integrated throughout also serves as a scaffold as students complete the following steps:</para>
+    <list id="id8923269" list-type="bulleted">
+      <item>Identify the key underlying ISSUE that needs to be addressed. </item>
+      <item>Acknowledge guiding principles and CRITERIA for decision-making. These criteria are to be drawn from the school’s mission statement and goals, from the administrator’s dispositions, and from declarative professional knowledge that relate to the issue.</item>
+      <item>Explore ALTERNATIVES and their associated opportunities and constraints.</item>
+      <item>Select the best DECISION and create a plan of action.</item>
+    </list>
+    <para id="id10219382">Because the ETIPS cases are aligned with Interstate School Leaders Licensure Consortium (ISLLC) standards, candidates who progress through the decision-making model are provided multiple opportunities to display their competency in the standards. They also increase their ability to perform well on the School Leaders Licensure Assessment (SLLA). More importantly, practice using these case studies strengthens thought patterns for problem solving and collaborative decision making that candidates will take with them into the field. The ETIPS program is available to all professors of educational administration at the following website: 
+
+<emphasis effect="bold"/><link url="http://etips.info/">http://etips.info/</link></para>
+    <section id="element-910"><title>References</title><list id="eip-282" list-type="bulleted" bullet-style="none"><item>Levine, A. (2005, March). <emphasis effect="italics">Educating school leaders</emphasis>. Retrieved from http://www.edschools.org/pdf/Final313.pdf </item>
+	<item>Levine, A. (2005, April). Change in the principal’s office: The role of universities. <emphasis effect="italics">The Chronicle of Higher Education, 51</emphasis>(32), 16-20. </item>
+	<item>Pintrich, P. (2000). <emphasis effect="italics">The role of goal orientation in self-regulated learning</emphasis>. Handbook of Self-Regulation. San Diego, CA: Academic Press.</item>
+	<item>Putnam, R., &amp; Borko, H. (2000). What do new views of knowledge and thinking have to say about research on teacher learning? <emphasis effect="italics">Educational Researcher, 29</emphasis>(1), 4-15.</item>
+	<item>Vygotsky, L. S. (1986). <emphasis effect="italics">Thought and language</emphasis>. (A. Kozulin, Trans.). Cambridge, MA: MIT Press. (Original work published 1934).</item>
+	<item>Waters, T., Marzano, R. J., &amp; McNulty, B. (2003). <emphasis effect="italics">Balanced leadership: What 30 years of research tells us about the effect of leadership on student achievement</emphasis>. Denver, CO: MCREL. Retrieved from http://www.mcrel.org/PDF/LeadershipOrganizationDevelopment/5031RR_Balanced Leadership.pdf </item>
+	<item>Zuelke, D. C., &amp; Willerman, M. (1995). The case study approach to teaching in education administration and supervision preparation programs.<emphasis effect="italics"> Education</emphasis>, 115, 604-612.</item></list></section>
+    
+    
+    
+    
+    
+    
+    
+    
+    <section id="eip-735"><title>APPENDIX</title><para id="eip-299"/></section><para id="id4707684">Case Studies: Decision-Making Model</para>
+    <para id="id3666042">Use the following model and rubric to guide you in developing your case study responses. Ensure that your response follows this format. (This model and rubric were retrieved 7/22/2008 from <link url="http://leadership.etips.info/">http://leadership.etips.info/</link>)</para>
+    <para id="id11808777">Steps in the Decision-Making Process</para>
+    <para id="id6153292">Identify the ISSUE that needs to be addressed</para>
+    <list id="id8660038" list-type="bulleted">
+      <item>Consider many possible explanations of what is happening, including inherent assumptions within each</item>
+      <item>Deduce fundamental underlying nature of problem</item>
+      <item>Seek an appropriate amount and nature of data in order to make the decision</item>
+      <item>Identify the desired goals that define the scope and scale of necessary decision</item>
+      <item>Deduce additional data needed</item>
+      <item>Identify team of people who should become involved</item>
+    </list>
+    <para id="id10387175">Identify the guiding principles you will apply as CRITERIA to the decision making process</para>
+    <list id="id11141811" list-type="bulleted">
+      <item>Identify appropriate guiding professional (declarative) knowledge</item>
+      <item>Identify appropriate guidance to be derived from school goals and mission</item>
+      <item>Identify dispositions that influence thinking</item>
+    </list>
+    <para id="id4962508">Identify ALTERNATIVES with associated opportunities and constraints and analyze their merits using the guiding principles</para>
+    <list id="id3500690" list-type="bulleted">
+      <item>Consider alternatives that address problem/issue</item>
+      <item>Allow for new and creative ideas</item>
+      <item>Identify opportunities and constraints for each alternative</item>
+      <item>Analyze alternatives using guiding principles and stakeholders’ perspectives</item>
+    </list>
+    <para id="id6161455">Select the best alternative DECISION for the context and create a plan.</para>
+    <list id="id4956070" list-type="bulleted">
+      <item>Select alternative most consistent with guiding principles</item>
+      <item>Create a plan of action</item>
+    </list>
+    <para id="id9253034">Questions for Discussion</para>
+    <list id="id9445300" list-type="enumerated">
+      <item>Describe what you determined to be the fundamental issue in this case and how you arrived at that interpretation. Who were the other people you thought should become involved in addressing this issue? What data sources did you consider key and how did you make sense of them?</item>
+      <item>Summarize the criteria you selected regarding the school goals and mission, professional (declarative) knowledge, and dispositions. Explain how these will guide your decision making.</item>
+      <item>What school- or community-based programs, practices, tools, structures, procedures, policies, systems, and so forth create opportunities and constraints in the consideration of alternative solutions?</item>
+      <item>How did the facts of the case and your criteria come together in how you formulated your next steps to (1) set direction, (2) develop people, and (3) make the organization work?</item>
+      <item>Did your conception of the issue change throughout the case? If so, what factor influenced the change? How could systems of the school be established or what could become more routinized to improve the ability of the school to deal with this issue in the future? What values drove the decision-making process?</item>
+    </list>
+    <para id="id8600375">Case Scoring Rubric</para>
+    <table id="id6556006" summary="Table 4"><title><emphasis effect="italics">Scoring Rubric</emphasis></title>
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <tbody>
+          <row>
+            <entry>Criteria</entry>
+            <entry>Level 0</entry>
+            <entry>Level 1</entry>
+            <entry>Level 2</entry>
+          </row>
+          <row>
+            <entry>Issue: Explains the central issue in the case</entry>
+            <entry>Does not present an understanding of the central issue</entry>
+            <entry>Presents a vague or superficial understanding of the central issue</entry>
+            <entry>Clearly articulates an understanding of the underlying central issue</entry>
+          </row>
+          <row>
+            <entry>Criteria: Identifies guiding principles in the case that affect the decision</entry>
+            <entry>Does not identify guiding principles in the case that affect the decision</entry>
+            <entry>Identifies a limited number of guiding principles in the case that affect the decision, including relevant aspects of the school mission</entry>
+            <entry>Identifies multiple sets of inter-related guiding principles that affect the decision, including relevant aspects of the school mission</entry>
+          </row>
+          <row>
+            <entry>Alternatives: Analyzes a range of alternatives that address the problem, noting their advantages and disadvantages</entry>
+            <entry>Does not present an analysis of the advantages and disadvantages for various alternatives</entry>
+            <entry>Presents an incomplete analysis of advantages and/or disadvantages for various alternatives</entry>
+            <entry>Presents a detailed analysis of the advantages and disadvantages for various alternatives</entry>
+          </row>
+          <row>
+            <entry>Decision: Selects the “best” alternative to address the challenge and includes strategies to “Set Direction”</entry>
+            <entry>Selects an alternative that is inconsistent with guiding principles and/or lacks any strategies for developing, communicating and supporting a vision for the school</entry>
+            <entry>Selects an alternative that is consistent with guiding principles and identifies limited strategies for developing, communicating and supporting a vision for the school</entry>
+            <entry>Selects an alternative that is consistent with guiding principles and describes detailed strategies for developing, communicating and supporting a vision for the school</entry>
+          </row>
+          <row>
+            <entry>Decision: Selects the “best” alternative to address the challenge and includes strategies to “Develop the People”</entry>
+            <entry>Selects an alternative that is inconsistent with guiding principles and/or lacks any strategies to support and develop staff members in achieving the stated goal</entry>
+            <entry>Selects an alternative that is consistent with guiding principles and identifies limited strategies to support and develop staff members in achieving the stated goal</entry>
+            <entry>Selects an alternative that is consistent with guiding principles and describes detailed strategies to support and develop staff members in achieving the stated goal</entry>
+          </row>
+          <row>
+            <entry>Decision: Selects the “best” alternative to address the challenge and includes strategies to “Make the Organization Work”</entry>
+            <entry>Selects an alternative that is inconsistent with guiding principles and/or lacks strategies to create a positive organizational culture and manage people, time and material resources to achieve the sated goal</entry>
+            <entry>Selects an alternative that is consistent with guiding principles and identifies limited strategies to create a positive organizational culture and manage people, time and material resources to achieve the sated goal</entry>
+            <entry>Selects an alternative that is consistent with guiding principles and identifies detailed strategies to create a positive organizational culture and manage people, time and material resources to achieve the sated goal</entry>
+          </row>
+        </tbody>
+      
+</tgroup>
+</table>
+    
+  </content>
+</document>

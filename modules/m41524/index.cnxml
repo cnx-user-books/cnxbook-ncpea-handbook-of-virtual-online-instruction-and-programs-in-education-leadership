@@ -1,0 +1,610 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Implementing Webfolios in School Leadership Internships:  "Pluses and Pitfalls"</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41524</md:content-id>
+  <md:title>Implementing Webfolios in School Leadership Internships:  "Pluses and Pitfalls"</md:title>
+  <md:abstract> 
+North Carolina is one of several states that has begun to incorporate the components of the Framework for 21st Century Learning in its focus on school leadership development and support.  A school leadership preparation program in rural eastern North Carolina initiated and designed webfolios for submission of evidences of internship learning experiences. Implementation and evaluation results from the first three years (2007-2010) indicated full implementation by both students and faculty. This paper describes the process, perceptions, and lessons learned from students and faculty from three years of implementation.</md:abstract>
+  <md:uuid>215eb24d-4300-4652-aed6-3de86e735539</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-543"><title>NCPEA Publications</title><media id="id27091673" alt=""><image src="../../media/logo3.jpg" mime-type="image/jpg"/></media></para><note id="eip-616">This manuscript has been peer-reviewed, accepted, and endorsed by the National Council of Professors of Educational Administration (NCPEA) as a significant contribution to the scholarship and practice of education administration. In addition to publication in the Connexions Content Commons, this module is published in the <emphasis effect="italics">NCPEA Handbook of Online Instruction and Programs in Education Leadership,</emphasis> ISBN 978-1-4507-7263-1. 
+</note><list id="eip-597" list-type="bulleted" bullet-style="none"><title><emphasis effect="underline">Editors</emphasis></title><item>Janet Tareilo, Stephen F. Austin State University</item>
+<item>Brad Bizzell, Virginia Tech</item>
+
+
+</list><list id="eip-264" list-type="bulleted" bullet-style="none"><title><emphasis effect="underline">Associate Editors</emphasis></title><item>Beverly Irby, Sam Houston State University</item>
+<item>Rosemary Papa, Northern Arizona University</item>
+<item>Thomas Valesky, Florida Gulf Coast University</item>
+<item>Theodore Creighton, Virginia Tech</item></list><list id="eip-515" list-type="bulleted" bullet-style="none"><title><emphasis effect="underline">About the Authors</emphasis></title><item><emphasis>Marjorie C. Ringler,</emphasis> Associate Professor and Coordinator of the Masters of School Administration Program, Department of Educational Leadership, East Carolina University</item>
+<item><emphasis>Lane Mills,</emphasis> Associate Professor, Department of Educational Leadership, East Carolina University</item>
+<item><emphasis>Randy St. Clair,</emphasis> Assistant Principal at Wellcome Middle School in Greenville, NC.  Received MSA from East Carolina University.</item>
+
+
+
+</list><section id="id1164200161217">
+      <title>Introduction</title>
+      <para id="id1164190391458">Whether stored on paper or in bytes, portfolios provide a means for individuals to showcase work that demonstrates reflection and progress over time (Montgomery, 2001). Webfolios, one format of electronic portfolios, reflect the web-based or online version of a portfolio which can range from a simple web page to a complex application with processes such as data entry, storage, retrieval and reporting in a standardized fashion with multiple levels of user access. Helen Barrett, a recognized leader in educational usage of electronic portfolios, provides that interactivity is a key characteristic of the Web 2.0 iteration of electronic portfolios, referring to them as ePortfolio 2.0, blog-folios, wiki-folios, or iPortfolios-where these type of portfolios “have the potential to change with the pedagogy of interaction” (Solomon &amp; Schrum, 2007, p. 173). With the current conversations from national groups such as the Partnership for 21<sup>st</sup> Century Skills (2004) that propose a need for the development and mastery of information, media and technology skills and incorporate technology-enhanced assessment, the incorporation of webfolios for online assessment and reflection is an important topic for principal preparation programs to consider in their delivery systems. </para>
+    </section>
+    <section id="id1164189893735">
+      <title>North Carolina Context</title>
+      <para id="id1164188772329">The Department of Public Instruction in North Carolina, like several other states, has begun to integrate the components of the Framework for 21<sup>st</sup> Century Learning within the public school curriculum (<emphasis effect="italics">Partnership for 21st Century Skills</emphasis>, 2004) and its standards for evaluating school leaders. With these new standards, Institutions of Higher Education in North Carolina have been required to revise their principal preparation programs to not only meet the usual national standards but to also prepare future leaders to integrate these 21<sup>st</sup> century learning skills. One innovation for North Carolina university systems will be the development and implementation of webfolios portfolios in the revisioning of their principal preparation programs. </para>
+      <para id="id1164179243694">East Carolina University (ECU) is the largest producer of school leaders in North Carolina. Its output is critical to the state due to its geographic location east of the I-95 corridor where the majority of school districts are rural with high levels of poverty and a growing number of English language learner students (NCDPI, 2007). Upon graduation, most of the students enrolled in ECU’s principal preparation program return to their local districts. In conjunction with the North Carolina Department of Public Instruction’s (NCDPI) focus on revisioning principal preparation programs, ECU has added an additional assessment tool – the use of webfolios that contain evidences and artifacts of graduates’ proficiency at the pre-service level for school leaders. Incorporating portfolios as evidence of student outcomes that align to state and national education standards is a widely used approach to meet the accreditation requirements of programs and institutions (Strudler &amp; Wetzel, 2005). For North Carolina’s universities, the requirement of program webfolios per student will be a mandate in the near future. In anticipation of the program webfolio requirement the faculty in the principal preparation program at ECU initiated the use of webfolios fall 2007. </para>
+      <para id="id1164199840969">At ECU, as in many institutions, internship portfolios have been used to house artifacts that make connections to standards and student learning (Strudler &amp; Wetzel, 2005). Therefore, the internship was a logical place for the initial integration of webfolios due to the fact that a portfolio was an existing requirement that could seemingly become an electronic folio. In addition, the internship had requirements for students that called for collections of artifacts and evidences that met the North Carolina School Executive Standards. </para>
+      <para id="id1164199388388">This descriptive study presents the initial implementation process of selecting and using a webfolio for a principal preparation internship. In addition the evaluation of the implementation for the academic years 2007-08, 2008-09, and 2009-10 will be described. </para>
+    </section>
+    <section id="id1164179177588">
+      <title>Method</title>
+      <section id="id1164180622395">
+        <title>Sample</title>
+        <para id="id1164189675964">Faculty (n=12) supervising interns and all interns (n=279) for the school years 2007-08, 2008-09, and 2009-10 used TaskStream for their webfolio. A supervising faculty member was selected to coordinate the development and implementation process for the program. The year-long internship was completed during the final year in the Masters of School Administration (MSA) program.</para>
+        <para id="id5647715">Faculty and students received instructions on utilizing webfolios through a variety of formats including: handouts, demonstration, overview sessions in computer lab, and individual appointments. During the year-long internship students met once a month for internship seminars and webfolio instruction. Upon completion of the internship, students and faculty were asked to complete a survey on the use of the webfolio. In addition, the webfolio application also generated several reports used to compare student use of the webfolio and learning during the internship. Faculty perceptions of the usability of the webfolio were also assessed. </para>
+      </section>
+      <section id="id1164205661266">
+        <title>Facets of implementation of the webfolio</title>
+        <para id="id1164195907015"><emphasis effect="italics">Selection of webfolio tool.</emphasis> There are two venues to webfolio development: off-the-shelf tools such as Microsoft Office and Web-based systems such as TaskStream (Strudler &amp; Wetzel, 2005). After researching available venues the faculty selected TaskStream as the webfolio application. One reason for the selection of TaskStream was the technical support offered by the Web-based system. The support was immediate and uninterrupted. Another reason for selecting this application was the cost factor. At the time the faculty decided to take initiative and use webfolios, there was (and still is) no funding for the implementation of this innovation. TaskStream did not incur any additional costs to the department or the faculty. The cost associated to this Web-based system was to the students upon subscription. In order to not overburden students, the faculty decided not to require textbooks and in place of the textbook students subscribed to TaskStream. A final consideration that led to the selection of TaskStream was the fact the Web-based system provided storage and tools to manage and generate reports specifically aligned with accreditations standards. This also meant that there would not be a need for a technology commitment from the university to maintain files.</para>
+        <para id="id1164190775122"><emphasis effect="italics">Implementation process.</emphasis> The faculty coordinating the implementation of TaskStream translated the existing internship portfolio outline into a Web-based format. Faculty and students received instructions on utilizing webfolios in many ways that included handouts, demonstration, overview sessions in computer lab, and individual appointments. During the year-long internship students met once a month for internship seminars and webfolio instruction. In addition, faculty would provide individual help during their school observation visits. Change is complex and takes time (Hall &amp; Hord, 2001) and this case was no different. Faculty members were willing to try the new Web-based application yet many times commented on the challenge to learn a new venue. Students also made similar comments along the way in addition to expressing difficulty in accessing the internet in many rural areas of the eastern part of the state. The key to the success of the implementation was appointing one faculty to facilitate the process. It was comfortable and important for all of those involved to turn to a person that would be available to help and in this case it was the university faculty. As the year progressed, the familiarity with the application helped with the process of uploading evidences and artifacts. By the end of the school year all students completed their webfolios and all faculty evaluated the webfolios via the Web-based system.</para>
+      </section>
+    </section>
+    <section id="id1164196619405">
+      <title>Results</title>
+      <para id="id1164205397103">Upon completion of the internship, students were asked to complete a survey on the use of webfolios adapted from a survey developed by Dr. Helen Barrett at the University Of Alaska Anchorage School Of Education. Data was collected over three internship periods (i.e., 2007-08, 2008-09 and 2009-10) to look for patterns and trends within and across cohorts. The number of interns and the response rate for the survey across the three years of data collection was 74 (87%), 122 (77%) and 99 (85%) respectively. </para>
+      <section id="id1164215772328">
+        <title>Reports of usage</title>
+        <para id="id1164181342688">The majority of students in the cohorts reported spending an average of 100 hours or less on the development and completion of their webfolios during the internship (61%, 53% and 51% respectively). From a TaskStream report, students typically shared their work 24 times during a 9 month period with the faculty supervisors assigned to support and evaluate their internship experience. This number decreased to 18 times during 2009 and 12 during 2010. </para>
+      </section>
+      <section id="id1164181327007">
+        <title>Student reports on the process</title>
+        <para id="id1164190586513">Several different survey questions were incorporated in the evaluation process to gather feedback regarding students’ perceptions of the incorporation of the webfolios. Following a five point Likert scale, an average agreement score was computed from the coding of the response categories of primary purpose, very important but not primary, important purpose, less important, not the purpose with values ranging from 1-5 respectively. With lower responses indicating a more primary purpose for the webfolios, the intern cohorts reported the greatest support for the webfolio as serving as a means to develop a reflective school administrator (Table 1). </para>
+        
+        <table id="id1513219" summary="Table 1"><title><emphasis effect="italics">Average Agreement Score Regarding the Primary Purpose for the Webfolio </emphasis></title>
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+             
+              <row>
+                <entry/>
+                <entry>2007-08</entry>
+                <entry>2008-09</entry>
+                <entry>2009-10</entry>
+              </row>
+              <row>
+                <entry>To implement a growth plan for the internship</entry>
+                <entry>2.7</entry>
+                <entry>2.8</entry>
+                <entry>2.7</entry>
+              </row>
+              <row>
+                <entry>To develop a reflective school administrator</entry>
+                <entry>1.7</entry>
+                <entry>1.5</entry>
+                <entry>1.4</entry>
+              </row>
+              <row>
+                <entry>To support formative assessment</entry>
+                <entry>3.4</entry>
+                <entry>2.3</entry>
+                <entry>2.3</entry>
+              </row>
+              <row>
+                <entry>To provide an assessment management tool for formal summative assessment of the internship</entry>
+                <entry>3.6</entry>
+                <entry>2.2</entry>
+                <entry>2.2</entry>
+              </row>
+              <row>
+                <entry>To create a presentational portfolio showcasing educational leadership</entry>
+                <entry>2.8</entry>
+                <entry>2.4</entry>
+                <entry>2.5</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>N=74</entry>
+                <entry>N=122</entry>
+                <entry>N=99</entry>
+              </row>
+            </tbody>
+          
+
+
+
+
+
+</tgroup>
+</table>
+        <para id="id1164196341874">Students were asked to provide feedback to the question “Now that you are finished, how do you feel about your webfolio?” These narrative responses were analyzed and placed into response categories as presented in Table 2. Students’ narrative responses could be categorized as very positive toward the webfolio usage across all three cohorts. </para>
+        
+        <table id="id1164180163501" summary="Table 2"><title><emphasis effect="italics">Counts of Categorized Responses of Interns Towards their Webfolios</emphasis></title>
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>2007-08</entry>
+                <entry>2008-09</entry>
+                <entry>2009-10</entry>
+              </row>
+              <row>
+                <entry>Student expressed relief, satisfaction, or gave positive feedback about the overall experience.</entry>
+                <entry>33</entry>
+                <entry>95</entry>
+                <entry>71</entry>
+              </row>
+              <row>
+                <entry>Student expressed the idea of learning a lot or the experience as a good tool for the future.</entry>
+                <entry>3</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+              </row>
+              <row>
+                <entry>Student expressed preferring the webfolio over a traditional method.</entry>
+                <entry>13</entry>
+                <entry>12</entry>
+                <entry>9</entry>
+              </row>
+              <row>
+                <entry>Student expressed preferring the traditional portfolio method.</entry>
+                <entry>2</entry>
+                <entry>7</entry>
+                <entry>9</entry>
+              </row>
+              <row>
+                <entry>Student expressed a variety of negative issues regarding the experience.</entry>
+                <entry>3</entry>
+                <entry>7</entry>
+                <entry>9</entry>
+              </row>
+              <row>
+                <entry>No Response</entry>
+                <entry>20</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>N=74</entry>
+                <entry>N=122</entry>
+                <entry>N=99</entry>
+              </row>
+            </tbody>
+          
+
+
+</tgroup>
+</table>
+        <para id="id1164183786400">Regarding the application of the webfolio in actual practice, students were asked to respond to the item “In the future, how do you think you will use or adapt the webfolio?” Narrative responses were analyzed and placed into response categories as presented Table 3. Across all three cohorts, the majority of the students’ responses were categorized as indicating that the webfolio would be used primarily as a reference/resource in seeking a leadership position in the schools. </para>
+        
+        <table id="id1164199056750" summary="Table 3"><title><emphasis effect="italics">Counts of Categorized Responses of Interns Towards Future Usage of their Webfolios</emphasis></title>
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>2007-08</entry>
+                <entry>2008-09</entry>
+                <entry>2009-10</entry>
+              </row>
+              <row>
+                <entry>Student expressed they didn’t know how they will use the webfolios in the future.</entry>
+                <entry>13</entry>
+                <entry>28</entry>
+                <entry>15</entry>
+              </row>
+              <row>
+                <entry>Students expressed to burn their portfolio onto CD or publish it on to the web. </entry>
+                <entry>4</entry>
+                <entry>1</entry>
+                <entry>3</entry>
+              </row>
+              <row>
+                <entry>The student expressed they will use the webfolio as a reference, resource, or in the interviewing process.</entry>
+                <entry>26</entry>
+                <entry>52</entry>
+                <entry>48</entry>
+              </row>
+              <row>
+                <entry>Student expressed the desire to continue to add to the portfolio.</entry>
+                <entry>6</entry>
+                <entry>8</entry>
+                <entry>6</entry>
+              </row>
+              <row>
+                <entry>Student expressed the idea of continuing reflecting and developing their professional growth plan using the portfolio method. </entry>
+                <entry>17</entry>
+                <entry>32</entry>
+                <entry>26</entry>
+              </row>
+              <row>
+                <entry>No Response</entry>
+                <entry>8</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>N=74</entry>
+                <entry>N=122</entry>
+                <entry>N=99</entry>
+              </row>
+            </tbody>
+          
+
+
+</tgroup>
+</table>
+      </section>
+      <section id="id1164190422020">
+        <title>Resources that Support Webfolios</title>
+        <para id="id1164198241113">With the transition to a webfolio over the last three years, there was a need to identify areas of support for the application to support its implementation and success for the students. Table 4 provides the interns’ responses to a survey question that highlights the most frequently indicated response for each item. Over the three year period, all cohorts indicated that the full time availability of laptop computers, handouts provided by the University Supervisor and one-on-one meetings with the university supervisor were the most useful resource in the creation of their portfolios. The usage of the online tutorials offered by TaskStream was the least useful. </para>
+        
+        <table id="id1164179632387" summary=""><title><emphasis effect="italics"> Percentages of Usefulness of Resources for Creating Portfolios </emphasis></title><tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>Did Not Use</entry>
+                <entry>Use-But Was Not Useful</entry>
+                <entry>Somewhat Useful</entry>
+                <entry>Very Useful</entry>
+                <entry>Could Not Have Completed Portfolio Without It</entry>
+              </row>
+              <row>
+                <entry>Full time use of laptop computers</entry>
+                <entry namest="c2" nameend="c6"/>
+              </row>
+              <row>
+                <entry>2007-08</entry>
+                <entry>17</entry>
+                <entry>2</entry>
+                <entry>2</entry>
+                <entry>20</entry>
+                <entry>30</entry>
+              </row>
+              <row>
+                <entry>2008-09</entry>
+                <entry>22</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>28</entry>
+                <entry>41</entry>
+              </row>
+              <row>
+                <entry>2009-10</entry>
+                <entry>17</entry>
+                <entry>2</entry>
+                <entry>5</entry>
+                <entry>23</entry>
+                <entry>53</entry>
+              </row>
+              <row>
+                <entry>Handouts provided by university supervisor</entry>
+                <entry namest="c2" nameend="c6"/>
+              </row>
+              <row>
+                <entry>2007-08</entry>
+                <entry>2</entry>
+                <entry>2</entry>
+                <entry>14</entry>
+                <entry>40</entry>
+                <entry>14</entry>
+              </row>
+              <row>
+                <entry>2008-09</entry>
+                <entry>4</entry>
+                <entry>6</entry>
+                <entry>28</entry>
+                <entry>43</entry>
+                <entry>20</entry>
+              </row>
+              <row>
+                <entry>2009-10</entry>
+                <entry>12</entry>
+                <entry>13</entry>
+                <entry>36</entry>
+                <entry>27</entry>
+                <entry>11</entry>
+              </row>
+              <row>
+                <entry>Seminar Sessions in computer lab</entry>
+                <entry namest="c2" nameend="c6"/>
+              </row>
+              <row>
+                <entry>2007-08</entry>
+                <entry>13</entry>
+                <entry>8</entry>
+                <entry>21</entry>
+                <entry>18</entry>
+                <entry>9</entry>
+              </row>
+              <row>
+                <entry>2008-09</entry>
+                <entry>22</entry>
+                <entry>11</entry>
+                <entry>26</entry>
+                <entry>26</entry>
+                <entry>14</entry>
+              </row>
+              <row>
+                <entry>2009-10</entry>
+                <entry>33</entry>
+                <entry>11</entry>
+                <entry>25</entry>
+                <entry>18</entry>
+                <entry>12</entry>
+              </row>
+              <row>
+                <entry>One-on-one meetings with university supervisor</entry>
+                <entry namest="c2" nameend="c6"/>
+              </row>
+              <row>
+                <entry>2007-08</entry>
+                <entry>7</entry>
+                <entry>1</entry>
+                <entry>15</entry>
+                <entry>36</entry>
+                <entry>13</entry>
+              </row>
+              <row>
+                <entry>2008-09</entry>
+                <entry>19</entry>
+                <entry>3</entry>
+                <entry>20</entry>
+                <entry>39</entry>
+                <entry>19</entry>
+              </row>
+              <row>
+                <entry>2009-10</entry>
+                <entry>16</entry>
+                <entry>0</entry>
+                <entry>21</entry>
+                <entry>36</entry>
+                <entry>26</entry>
+              </row>
+              <row>
+                <entry>Internet-based tutorials offered by TaskStream</entry>
+                <entry namest="c2" nameend="c6"/>
+              </row>
+              <row>
+                <entry>2007-08</entry>
+                <entry>49</entry>
+                <entry>6</entry>
+                <entry>10</entry>
+                <entry>5</entry>
+                <entry>2</entry>
+              </row>
+              <row>
+                <entry>2008-09</entry>
+                <entry>59</entry>
+                <entry>11</entry>
+                <entry>23</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+              </row>
+              <row>
+                <entry>2009-10</entry>
+                <entry>54</entry>
+                <entry>13</entry>
+                <entry>20</entry>
+                <entry>9</entry>
+                <entry>4</entry>
+              </row>
+              <row>
+                <entry>Help from a friend or relative</entry>
+                <entry namest="c2" nameend="c6"/>
+              </row>
+              <row>
+                <entry>2007-08</entry>
+                <entry>36</entry>
+                <entry>3</entry>
+                <entry>9</entry>
+                <entry>17</entry>
+                <entry>6</entry>
+              </row>
+              <row>
+                <entry>2008-09</entry>
+                <entry>20</entry>
+                <entry>2</entry>
+                <entry>27</entry>
+                <entry>31</entry>
+                <entry>20</entry>
+              </row>
+              <row>
+                <entry>2009-10</entry>
+                <entry>36</entry>
+                <entry>5</entry>
+                <entry>22</entry>
+                <entry>24</entry>
+                <entry>12</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id1164199436028">
+        <title>Student Feedback</title>
+        <para id="id1164183793913">Students were also asked to provide feedback concerning improvements and problems with the webfolio development process for the next group of interns. Their narrative responses were analyzed and placed into response categories as presented in Tables 5 and 6. While the initial cohort implementing the webfolios indicated an opinion that the process will improve with future implementations and the need for streamlining information, subsequent cohorts consistently reported greater need for more presentations and professional development for interns. These data are reported in Table 5.</para>
+        
+        <table id="id1164202560781" summary="Table 5"><title><emphasis effect="italics">Counts of Categorized Responses of Interns Towards Improvements with their Webfolios</emphasis></title>
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>2007-08</entry>
+                <entry>2008-09</entry>
+                <entry>2009-10</entry>
+              </row>
+              <row>
+                <entry>Students expressed the process will improve with time and the need for streamlining information.</entry>
+                <entry>11</entry>
+                <entry>12</entry>
+                <entry>3</entry>
+              </row>
+              <row>
+                <entry>Student emphasized importance of time management. </entry>
+                <entry>6</entry>
+                <entry>3</entry>
+                <entry>22</entry>
+              </row>
+              <row>
+                <entry>Student expressed the need for more presentations and professional development for interns.</entry>
+                <entry>9</entry>
+                <entry>44</entry>
+                <entry>33</entry>
+              </row>
+              <row>
+                <entry>Students expressed the need for interns to be tech savvy and keep hard copies.</entry>
+                <entry>6</entry>
+                <entry>5</entry>
+                <entry>4</entry>
+              </row>
+              <row>
+                <entry>Student expressed they like the webfolio.</entry>
+                <entry>4</entry>
+                <entry>29</entry>
+                <entry>29</entry>
+              </row>
+              <row>
+                <entry>Students expressed need for additional formative assessments or possible change of formats.</entry>
+                <entry>4</entry>
+                <entry>21</entry>
+                <entry>25</entry>
+              </row>
+              <row>
+                <entry>Student emphasized the professors and site supervisors make the difference in successful experiences.</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>1</entry>
+              </row>
+              <row>
+                <entry>No response</entry>
+                <entry>30</entry>
+                <entry>3</entry>
+                <entry>1</entry>
+              </row>
+              <row>
+                <entry> </entry>
+                <entry>N=74</entry>
+                <entry>N=122</entry>
+                <entry>N=99</entry>
+              </row>
+            </tbody>
+          
+
+
+</tgroup>
+</table>
+        <para id="id1164198002670">Table 6 provides information about specific problems that interns encountered with the webfolio process. While the overwhelming majority of students in the first cohort that implemented webfolios indicated that technology issues were the greatest source of problems, subsequent cohorts report very few issues impeding their usage of the tools. </para>
+        <table id="id1164180149914" summary="Table 6"><title><emphasis effect="italics">Specific Problems Interns Encountered</emphasis></title>
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>2007-08</entry>
+                <entry>2008-09</entry>
+                <entry>2009-10</entry>
+              </row>
+              <row>
+                <entry>Student expressed information confusion or frustration with process not being streamlined.</entry>
+                <entry>1</entry>
+                <entry>19</entry>
+                <entry>12</entry>
+              </row>
+              <row>
+                <entry>Student expressed technology issues as problem or general future of technology in general.</entry>
+                <entry>23</entry>
+                <entry>24</entry>
+                <entry>22</entry>
+              </row>
+              <row>
+                <entry>Student expressed the need for more support and training. </entry>
+                <entry>9</entry>
+                <entry>8</entry>
+                <entry>3</entry>
+              </row>
+              <row>
+                <entry>Student expressed difficulty with time constraints and workload.</entry>
+                <entry>2</entry>
+                <entry>5</entry>
+                <entry>7</entry>
+              </row>
+              <row>
+                <entry>Student expressed the process had no problems.</entry>
+                <entry>9</entry>
+                <entry>61</entry>
+                <entry>49</entry>
+              </row>
+              <row>
+                <entry>Student expressed the need for more prompt feedback from professor or site supervisors.</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>4</entry>
+              </row>
+              <row>
+                <entry>No response</entry>
+                <entry>29</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>N=74</entry>
+                <entry>N=122</entry>
+                <entry>N=99</entry>
+              </row>
+            </tbody>
+          
+</tgroup>
+</table>
+      </section>
+    </section>
+    <section id="id1164187641721">
+      <title>Discussion and Lessons Learned </title>
+      <para id="id1164205314352">Overall, interns indicated positive opinions about the usage of webfolios and viewed the application as an important part of the evaluation of their internship experience and see value in its use towards seeking employment as a school leader. Technology support was often cited as a key variable in the implementation of the project and the need for more presentations and professional development were cited as essential to their successful completion of the process. </para>
+      <para id="id1164192460834">While the interns’ feedback provided one view of the webfolios introduction, a discussion of the lessons learned from the faculty viewpoint offers additional areas of focus. </para>
+      <section id="id1164196831331">
+        <title>One point of contact and time </title>
+        <para id="id1164199695827">Initially, the idea of implementing webfolios was widely accepted by the faculty. Once the idea became a reality, faculty hesitated. After discussions on postponing the implementation one additional year, faculty decided to continue as planned with the condition that one faculty among them coordinate implementation and instructions for use with students and faculty. Having one faculty coordinating the process was an effective tool for full implementation. One reason was that students and faculty felt they had a point person to contact with problems. Another reason was that one faculty coordinator could keep ongoing notes of implementation issues and incorporate needed changes for the second year of implementation. A lesson learned was that even though there was no monetary investment in implementing webfolio there was a large and unexpected time commitment from the faculty coordinator who also was also supervising interns. Therefore, having one point of contact for the application is helpful but release time might be needed.</para>
+      </section>
+      <section id="id1164200466978">
+        <title>Change takes time and courage</title>
+        <para id="id1164214957115">All faculty need to be familiar with the application and its usage and support. In this pilot study, faculty was learning to use webfolios alongside students but the learning perspectives were different. Students learned to create webfolios while faculty learned to review and provide feedback. Therefore when students looked for their supervisors for technical support the standard approach was to connect students with the coordinator. A lesson learned was to allow time for practice and to provide very clear expectations and processes for the use of the online tool. </para>
+      </section>
+      <section id="id1164189535484">
+        <title>Technology issues</title>
+        <para id="id1164212946418">Many students completing the principal preparation program at this institution live in rural regions of North Carolina where access to the internet is difficult. Therefore, faculty and students addressed obstacles in order to access adequate levels of technology and support. One particular obstacle was encountered at the monthly seminars held at a local high school. Meetings were typically held in the media center where access to the internet was limited due to the small number of computers and in addition the need for a password to access the internet. Thanks to the collaboration with the school administrators the faculty was able to obtain a temporary password to log on to the internet however there were small numbers of terminals to access. A lesson learned from this experience is the need to meet in a location where Wi-Fi is accessible and where each student has access to a computer. At this point, the faculty is strongly recommending students to bring their laptops with them. In addition, the meeting locations must have computer labs with internet access. </para>
+      </section>
+    </section>
+    <section id="id1164182680944">
+      <title>Conclusion</title>
+      <para id="id1164180041309"> The principal preparation program in this study initiated and designed webfolios for submission of evidences of internship learning experiences during the pilot year 2007-08, and over the past two years (2008-09 and 2009-10) has seen the process evolve from one that was challenging technically and in implementation to one that is highly reflective and useful for student interns and faculty. Implementation and evaluation results over the past three years indicated full implementation by both students and faculty. To evaluate the use of this process over the years student interns and faculty shared their perceptions of the process they experienced. What’s been learned is that this process is continuing to improve, especially in the area of technology and professional development for interns. However, interns are finding that the benefits of this process stem far beyond simple completion of the task and translate into exponential growth as a professional. Current students will also be evaluated and perceptions will be compared to that of the prior groups. </para>
+    </section>
+    <section id="id1164181566012">
+      <title>References</title>
+      <list id="id1164193651441" list-type="bulleted" bullet-style="none"><item>Hall, G.E., &amp; Hord, S.M. (2001). <emphasis effect="italics">Implementing change: Patterns, principles, and potholes</emphasis>. Needham Heights, MA: Allyn &amp; Bacon.</item>
+	<item>Montgomery, K. K. (2001). <emphasis effect="italics">Authentic assessment: A guide for elementary teachers</emphasis>. New York: Allan &amp; Bacon.</item>
+	<item><emphasis effect="italics">Partnership for 21<sup>st</sup> Century skills</emphasis>. (2004). Retrieved from <link url="http://www.21stcenturyskills.org/index.php?option=com_content&amp;task=view&amp;id=254&amp;Itemid=120">http://www.21stcenturyskills.org/index.php?option=com_content&amp;task=view&amp;id=254&amp;Itemid=120</link></item>
+	<item>Solomon, G., &amp; Schrum, L. (2007). <emphasis effect="italics">Web 2.0: New tools, new schools</emphasis>. Eugene, OR: International Society for Technology in Education (ISTE).</item>
+	<item>Strudler, N., &amp; Wetzel, K. (Summer 2005). The diffusion of electronic portfolios in teacher education: Issues of initiation and implementation. <emphasis effect="italics">Journal of Research on Technology in Education, 37</emphasis>(4), pp. 411-433.</item>
+</list>
+    </section>
+  </content>
+</document>
